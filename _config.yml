@@ -2,11 +2,11 @@
 remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
-title: 'My name'
-description: 'I am amazing.'
+title: 'Josh Lane'
+description: 'Augusta Pediatric Associates'
 
 # Images
-avatar: 'avatar.jpg'
+avatar: 'Josh_Lane.jpg'
 background: 'background.jpg'
 favicon: 'favicon.ico'
 
